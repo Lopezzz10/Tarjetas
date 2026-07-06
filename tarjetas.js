@@ -14,3 +14,7 @@ function crearTargetas(){
 
     divTargetas.innerHTML = contenido;
 }
+
+function bienvenida(){
+    alert("BIENVENIDO")
+}
